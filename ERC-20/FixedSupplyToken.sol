@@ -31,7 +31,7 @@ contract FixedSupplyToken is ERC20Interface, Owned {
 
     constructor() public {
 
-        symbol = "FIXED";
+        symbol = "Symbol";
 
         name = "Example Fixed Supply Token";
 
