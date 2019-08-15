@@ -2,6 +2,10 @@ pragma solidity ^0.5.0;
 
 // NOTE: Draft. without test ****************************
 
+// Goal: Create AGGreen Crypto-assets; https://github.com/aggreensmart
+// Create AGPirate Crypto-assets; https://github.com/agpiratesmart
+// Create AGSports Crypto-assets; https://github.com/agsports
+
 // https://theethereum.wiki/w/index.php/ERC20_Token_Standard
 
 // Zeppelin: https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts/token
