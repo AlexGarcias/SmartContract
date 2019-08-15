@@ -2,6 +2,9 @@ pragma solidity ^0.5.0;
 
 import 'https://github.com/AlexGarcias/SmartContract/blob/master/ERC-20/Token_Standard.sol'
 
+// reference: https://theethereum.wiki/w/index.php/ERC20_Token_Standard
+// https://github.com/ConsenSys/Tokens/blob/fdf687c69d998266a95f15216b1955a4965a0a6d/contracts/eip20/EIP20.sol
+
 
 contract FixedSupplyToken is ERC20Interface, Owned {
 
