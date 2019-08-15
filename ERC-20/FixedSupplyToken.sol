@@ -31,13 +31,13 @@ contract FixedSupplyToken is ERC20Interface, Owned {
 
     constructor() public {
 
-        symbol = "Symbol";
+        symbol = "AGS";
 
-        name = "Example Fixed Supply Token";
+        name = "Alex Garcias";
 
         decimals = 18;
 
-        _totalSupply = 1000000 * 10**uint(decimals);
+        _totalSupply = 3000000 * 10**uint(decimals);
 
         balances[owner] = _totalSupply;
 
