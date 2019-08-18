@@ -13,4 +13,4 @@ We're studing about Legal Smart contracts to solve judicial conflicts without Ju
     
 
 Contracts are stored in the blockchain.
-The contracts are linked to wallet accounts to receive and send crypto coins to resolve conflict between the parties.
+The contracts are linked to wallet accounts to receive and send crypto-assets to resolve conflict between the parties.
