@@ -14,3 +14,24 @@ We're studing about Legal Smart contracts to solve judicial conflicts without Ju
 
 Contracts are stored in the blockchain.
 The contracts are linked to wallet accounts to receive and send crypto-assets to resolve conflict between the parties.
+
+Donation scenario
+
+QR-Code: http://bit.ly/2yWFNDi
+
+ETH Address: 0xB1eAf2a7e96e603D28FC84f8456DC94Bb9EdC985 – Ethereum – ETH;
+
+Alex Garcias, Dr. Attorney. Research. Developer C#, Python, Solidity, PHP, HTML, CSS.
+
+Web site: http://alexgarcias.com.br | https://github.com/alexgarcias
+GitHub AGGreen: https://github.com/aggreensmart 
+GitHub AGPirate:  https://github.com/agpiratesmart 
+GitHub AGSports: https://github.com/agsports
+AGGreen Contact: contato@alexgarcias.com.br 
+Alex Garcias contact: contato@alexgarcias.com.br 
+LinkedIn: www.linkedin.com/in/alexgarcias 
+Twitter: @lexgarcias 
+
+Academia Science 
+
+	https://independent.academia.edu/alexgarcia463 
