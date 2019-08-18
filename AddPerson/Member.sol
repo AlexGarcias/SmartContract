@@ -5,6 +5,7 @@ pragma solidity >=0.5.1 <0.7.0;
 // The register Member Hash is linked with the other Smart Contract
 // to controle AGGreen / AGPirate / AGSports
 // This contract is draft
+// Start by Alex Garcias, Dr. https://alexgarcias.com.br 
 
 contract MyMembers {
     
