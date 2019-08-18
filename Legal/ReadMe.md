@@ -34,4 +34,4 @@ Twitter: @lexgarcias
 
 Academia Science 
 
-	https://independent.academia.edu/alexgarcia463 
+	https://independent.academia.edu/alexgarcia463  
