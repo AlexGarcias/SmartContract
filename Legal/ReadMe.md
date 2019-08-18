@@ -10,3 +10,7 @@ We're studing about Legal Smart contracts to solve judicial conflicts without Ju
     8. Collaborators agreement (Staff);
     9. Service providers agreement;
     10. Marketing agreement;
+    
+
+Contracts are stored in the blockchain.
+The contracts are linked to wallet accounts to receive and send crypto coins to resolve conflict between the parties.
