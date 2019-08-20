@@ -7,8 +7,6 @@ pragma solidity >=0.5.1 <0.7.0;
 // This contract is draft
 // Start by Alex Garcias, Dr. https://alexgarcias.com.br 
 
-pragma solidity >=0.5.1 <0.7.0;
-
 contract MyMembers {
 
      address payable member;
