@@ -7,62 +7,32 @@ pragma solidity >=0.5.1 <0.7.0;
 // This contract is draft
 // Start by Alex Garcias, Dr. https://alexgarcias.com.br 
 
-contract MyMembers {
+contract Owner {
 
-     address payable member;
-    
-    // public data
-    
-    Person[] public people;
-    uint256 public peopleAccount;
+	uint256 public peopleCount = 0;
+	mapping (uint => Person) public people; // Mapping Struct Person to stock data 
 
-// private data
+struct Person {
 
-
-    PersonPrivate[] public PPrivate;
-   
-   // Defines public data about members
-
-    struct Person {
+	uint id;
+	string firstName;
+	string lastName;
+	string wallet;
+	string photo;
+	string country;
+}
 	
-        
-    	string firstname;
-        string lastname;
-        string mothername;
-        string fathername;
-        string photo;
-        string country;
+function addPerson(string memory _firstName, string memory _lastName, string memory _wallet, string memory _photo, string memory _country) public {
 
-    }
-    
-    function addPerson(string  memory _firstname , string memory _lastname , string memory _mothername ,string memory _fathername , string memory _photo , string memory _country) public {
-        
-        people.push(Person(_firstname , _lastname , _mothername , _fathername , _photo , _country));
-         peopleAccount +=1;
-        
-    }
+peopleCount +=1;
+people[peopleCount] = Person(peopleCount, _firstName , _lastName , _wallet, _photo , _country);
 
-// private data
-
-struct PersonPrivate {
-
-string Doc;
 
 }
 
 
-    function pperson(string memory _Doc) public {
-        PPrivate.push(PersonPrivate (_Doc));
-        
-        
-    }
+   }// Final Contract	
 
 
 
-// Modifier 
-
-
-  
-
-}// final contrac 
 
