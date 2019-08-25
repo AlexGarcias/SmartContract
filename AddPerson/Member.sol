@@ -31,7 +31,7 @@ struct Person {
 function addPerson(string memory _firstName, string memory _lastName, string memory _wallet, string memory _photo, string memory _email) public {
 
 peopleCount +=1;
-people[peopleCount] = Person(peopleCount, _firstName , _lastName , _wallet, _photo , _country);
+people[peopleCount] = Person(peopleCount, _firstName , _lastName , _wallet, _photo , _email);
 
 
 }
