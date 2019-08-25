@@ -8,6 +8,7 @@ pragma solidity >=0.5.1 <0.7.0;
 // Start by Alex Garcias, Dr. https://alexgarcias.com.br 
 
 // ********************* Reference ***********************************
+// Read Yellow Paper to understand the Blockchain Structure World Wide
 // https://solidity.readthedocs.io/en/v0.5.11/types.html | Solidity 0.5.11 Docs
 
 
