@@ -10,14 +10,12 @@ pragma solidity >=0.5.1 <0.7.0;
 // ********************* Reference ***********************************
 // Read Yellow Paper to understand the Blockchain Structure World Wide
 // https://solidity.readthedocs.io/en/v0.5.11/types.html | Solidity 0.5.11 Docs
-
-
+// https://remix.ethereum.org/
 //********************** Final Reference *****************************
 
 contract Owner {
 
 	uint256 public peopleCount = 0;// Count person registered in Blockchain
-	uint256 public contactCount = 0;// Count contact person;
 	mapping (uint => Person) public people; // Mapping Struct Person to stock data 
 
 struct Person {
