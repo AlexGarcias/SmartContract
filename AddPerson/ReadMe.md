@@ -6,7 +6,7 @@ Note: each Id_ is a specific Smart Contract. We can link all Smart Contract in t
 
 Person Data
 
-1. Id_Person
+1. Id_Person <---------- Primary Key
 2. First_Name
 3. Last_Name
 4. Photo
