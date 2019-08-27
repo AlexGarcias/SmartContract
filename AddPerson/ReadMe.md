@@ -21,19 +21,23 @@ Person Data
 6. Id_Company
 7. Id_Farm
 8. Id_Waste
+9. Id_Person 
 
 # Parents
 
 1. Id_Mother
 2. Id_Father
+3. Id_Person 
 
 # Offsprings
 
 1. Id-offsprings
+2. Id_Person 
 
 # Education
 
 1. Id_Education
+2. Id_Person 
 
 # Health
 
@@ -43,12 +47,14 @@ Person Data
 4. Id_veterinary
 5. Id_Gym
 6. Id_Clinic
+7. Id_Person 
 
 # Legal
 
 1. Id_justice
 2. Id_Police
 3. Id_Testament
+4. Id_Person 
 
 # Travel
 
@@ -56,5 +62,6 @@ Person Data
 2. Id_Ticket
 3. Id_hotel
 4. Id_Taxi/Ubber/Bus
+5. Id_Person 
 
 In evolution <------------
