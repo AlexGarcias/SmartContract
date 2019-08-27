@@ -7,7 +7,7 @@ First_Name
 Last_Name
 Photo
 
-Property data
+# Property data
 
 Id_Home
 Id_Apartment
@@ -18,20 +18,20 @@ Id_Company
 Id_Farm
 Id_Waste
 
-Parents
+# Parents
 
 Id_Mother
 Id_Father
 
-Offsprings
+# Offsprings
 
 Id-offsprings
 
-Education
+# Education
 
 Id_Education
 
-Health
+# Health
 
 Id_health
 Id_Doctor
@@ -40,13 +40,13 @@ Id_veterinary
 Id_Gym
 Id_Clinic
 
-Legal
+# Legal
 
 Id_justice
 Id_Police
 Id_Testament
 
-Travel
+# Travel
 
 Id_Passport
 Id_Ticket
