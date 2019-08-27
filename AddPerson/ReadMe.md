@@ -2,53 +2,53 @@
 
 Person Data
 
-Id_Person
-First_Name
-Last_Name
-Photo
+1. Id_Person
+2. First_Name
+3. Last_Name
+4. Photo
 
 # Property data
 
-Id_Home
-Id_Apartment
-Id_Animals
-Id_Cars
-Id_motorcycle
-Id_Company
-Id_Farm
-Id_Waste
+1. Id_Home
+2. Id_Apartment
+3. Id_Animals
+4. Id_Cars
+5. Id_motorcycle
+6. Id_Company
+7. Id_Farm
+8. Id_Waste
 
 # Parents
 
-Id_Mother
-Id_Father
+1. Id_Mother
+2. Id_Father
 
 # Offsprings
 
-Id-offsprings
+1. Id-offsprings
 
 # Education
 
-Id_Education
+1. Id_Education
 
 # Health
 
-Id_health
-Id_Doctor
-Id_Food
-Id_veterinary
-Id_Gym
-Id_Clinic
+1. Id_health
+2. Id_Doctor
+3. Id_Food
+4. Id_veterinary
+5. Id_Gym
+6. Id_Clinic
 
 # Legal
 
-Id_justice
-Id_Police
-Id_Testament
+1. Id_justice
+2. Id_Police
+3. Id_Testament
 
 # Travel
 
-Id_Passport
-Id_Ticket
-Id_hotel
-Id_Taxi/Ubber/Bus
+1. Id_Passport
+2. Id_Ticket
+3. Id_hotel
+4. Id_Taxi/Ubber/Bus
