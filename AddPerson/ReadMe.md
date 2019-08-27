@@ -66,15 +66,15 @@ Person Data
 
 # Biology
 
-Id_DNA
-Id_Face
-Id_finger_print
-Id_eyes
+1. Id_DNA
+2. Id_Face
+3. Id_finger_print
+4. Id_eyes
 
 # Work
 
-Id_Work
-Id_Person
+1. Id_Work
+2. Id_Person
 
 
 In evolution <------------
