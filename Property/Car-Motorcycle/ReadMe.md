@@ -1,15 +1,15 @@
-[! texto](http://alexgarcias.com.br/images/Capa5/AlexGarciasAdvogadosPaisesInternacional.png)
-#Car and motorcycle
+![texto](http://alexgarcias.com.br/images/Capa5/AlexGarciasAdvogadosPaisesInternacional.png)
+# Car and motorcycle
 
 We consider Cars as property register and Smart Contract as follow:
 
-#HTML
+# HTML
 
 Smart contracting needs an HTML page to interact with. The HTML page to interact with Smart Contract has the same field name and constant as we have in developing solidity.
 
-#Solidity
+# Solidity
 
-#Field
+# Field
 
     1. Id_Person;
     2. Id_Smart_Contract. Buy, sell, rent, swap car;
@@ -22,16 +22,16 @@ Smart contracting needs an HTML page to interact with. The HTML page to interact
     9. Fabric_Car;
     10. Observation;
 
-#Permission
+# Permission
 
     1. Only Owner can make a new car register in Blockchain;
 
-#Gas
+# Gas
 
     3. https://ethereum.org price to run the Smart Contract;
     4. Gas: 210000000;
 
-#Nitro
+# Nitro
 
 The cost to add new member is:
 
