@@ -2,8 +2,8 @@
 
 Developer: Solidity 0.5.11, HTML, CSS, Web3.js;
 
-Note: Read the Yellow Paper;
-Note: each Id_ is a specific Smart Contract. We can link all Smart Contract in the Primary Key (Person/Owner), as follow:
+1. Note: Read the Yellow Paper;
+2. Note: each Id_ is a specific Smart Contract. We can link all Smart Contract in the Primary Key (Person/Owner), as follow:
 
 Person Data
 
