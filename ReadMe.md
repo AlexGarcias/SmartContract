@@ -2,6 +2,20 @@
 
 Developer: Solidity 0.5.11, HTML, CSS, Web3.js;
 
+Observation:
+
+This Yellow Paper resume the technical information about link between Smart Contracts.
+Each human activities has your own Smart Contract. Some human activities has more importance that others. So, is important too register some human activities in Smart Contract so solve conflicts without intermediaries. 
+We suppose that the individual “Alpha” has one house, one car, one soon, one cat, one job, education, take care to health, travel and waste.
+
+We build the Smart Contract to linked the important human activities. The first Smart Contract register the data about the person. Other Smart Contracts as buy, sell, rent properties are linked with the Smart Contract Person that Hash is the primary key of the Ecosystem. The same to Car.
+
+If a person buys a car, the legal relationship between buyer and seller is recorded in the Smart Contract. The Smart Contract can transfer money, assets, property, anything, automatically, without intermediaries like lawyers, judiciary and banks. 
+So when accessing the Smart Contract person's Hash primary key the information is public, private, and sensitive data, with access level determined as public or private in the Solidity program, about the person connected to Smart Contract properties, cars. Thus, personal information and car information are recorded in Smart Contract and stored in Blockchain. The same to soon and parents.
+
+The hash, children and parents, specific smart contract, are recorded in the smart contract and stored in the Blockchain. There is cross data information. The Id of offspring is registered in father, mother, grandfather, grandmother, brother, health, education and other human activities.
+In resume, read Blockchain Structure, is possible link Smart Contract to register all important human activities in the Blockchain, as follow:
+
 Note: each Id_ is a specific Smart Contract. We can link all Smart Contract in the Primary Key (Person/Owner/Hash number), as follow:
 
 Person Data
