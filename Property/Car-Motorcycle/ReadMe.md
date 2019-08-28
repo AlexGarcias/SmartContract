@@ -1,6 +1,6 @@
-![alt text](http://alexgarcias.com.br/blog/wp-content/uploads/2017/05/AlexGarciasAttorneys.png)
-
 # Car and motorcycle
+
+![alt text](http://alexgarcias.com.br/blog/wp-content/uploads/2017/05/AlexGarciasAttorneys.png)
 
 We consider Cars as property register and Smart Contract as follow:
 
