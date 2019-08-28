@@ -1,4 +1,4 @@
-# Smart Contract Person
+# Smart Contract. Linked. Blockchain. Structure
 
 Developer: Solidity 0.5.11, HTML, CSS, Web3.js;
 
