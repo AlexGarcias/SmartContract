@@ -3,7 +3,7 @@ Register in Blockchain to control Real State right and business
 
 Home and apartment
 
-![alt text](https:///alexgarcias.com.br/GitHub/Image/Property-Smart-contrac-alex-garcias.png)
+![alt text](http:///alexgarcias.com.br/GitHub/Image/Property-Smart-contrac-alex-garcias.png)
 
 
 # HTML
