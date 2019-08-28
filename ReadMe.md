@@ -25,7 +25,8 @@ Person Data
 3. Last_Name
 4. Photo
 
-# Property data (https://github.com/AlexGarcias/SmartContract/tree/master/Property)
+# [Property data] (https://github.com/AlexGarcias/SmartContract/tree/master/Property)
+
 
 1. Id_Home
 2. Id_Apartment
