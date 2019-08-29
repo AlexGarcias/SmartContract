@@ -11,7 +11,13 @@ pragma solidity >=0.5.1 <0.7.0;
 // Read Yellow Paper to understand the Blockchain Structure World Wide
 // https://solidity.readthedocs.io/en/v0.5.11/types.html | Solidity 0.5.11 Docs
 // https://remix.ethereum.org/
-//********************** Final Reference *****************************
+
+
+//********************** Library *****************************
+Safe://Safe: Zepellin: https://github.com/OpenZeppelin/openzeppelin-contracts/blob/9b3710465583284b8c4c5d2245749246bb2e0094/contracts/math/SafeMath.sol
+
+
+//*********************************************************************
 
 contract Owner {
 
