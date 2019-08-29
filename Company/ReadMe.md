@@ -30,9 +30,9 @@ Field
 7. Id_Property;
 8. Id_Person_worker;
 9. Id_Smart_Contract_Shares_Company. For Open Capital by Crypto-assets, Local and Global Investments by Crypto-assets;
-10.Id_Smart_Contract_to_Create_Token;
-11.Id_Collaborators_Smart_Contracts;
-12.Id_Employment_Smart_Contract;
+10. Id_Smart_Contract_to_Create_Token;
+11. Id_Collaborators_Smart_Contracts;
+12. Id_Employment_Smart_Contract;
 
 # Permission
 
