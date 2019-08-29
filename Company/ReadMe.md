@@ -20,14 +20,14 @@ Smart contracting needs an HTML page to interact with. The HTML page to interact
 
 Field
 
-Id_Person;
-Id_Research_Smart_Contract;
-Id_Report_Research_Smart_Contract;
-Id_Smart_Contract_Open_New_Company;
-Id_Smart_Contract_Open_New_Projects;
-Id_Office_Smart_Contract. Rent, buy of the office;
-Id_Property;
-Id_Person_worker;
+1. Id_Person;
+2. Id_Research_Smart_Contract;
+3. Id_Report_Research_Smart_Contract;
+4. Id_Smart_Contract_Open_New_Company;
+5. Id_Smart_Contract_Open_New_Projects;
+6. Id_Office_Smart_Contract. Rent, buy of the office;
+7. Id_Property;
+8. Id_Person_worker;
 
 # Permission
 
