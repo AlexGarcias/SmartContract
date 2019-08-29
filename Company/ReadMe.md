@@ -36,14 +36,19 @@ Field
 
 # Permission
 
+Only Owner can make a new boat register in Blockchain;
 
 # Gas
 
-
+    1. https://ethereum.org price to run the Smart Contract;
+    2. Gas: 210000000;
 
 # Nitro
 
+The cost to add new member is:
 
+    1. 0.01608563 – Ethereum;
+    2. Address payable in the moment of the transaction;
 
 <-------------------- Under Evolution
 
