@@ -4,7 +4,7 @@
 
 Developer: Solidity 0.5.11, HTML, CSS, Web3.js; Alex Garcias, Dr. Attorney. Research. Developer C#, Python, Solidity, PHP, HTML, Css. Website: http://alexgarcias.com.br Repository: https://github.com/alexgarcias Company AGGreen Smart: https://github.com/aggreensmart | agg@alexgarcias.com.br Company AGPirate Smart: https://github.com/agpirate | agp@alexgarcias.com.br LinkedIn: www.linkedin.com/in/alexgarcias Twitter @lexgarcias
 
-Observation:
+# Observation:
 
 This Yellow Paper resume the technical information about link between Smart Contracts.
 Each human activities has your own Smart Contract. Some human activities has more importance that others. So, is important too register some human activities in Smart Contract so solve conflicts without intermediaries. 
@@ -20,7 +20,7 @@ In resume, read Blockchain Structure, is possible link Smart Contract to registe
 
 Note: each Id_ is a specific Smart Contract. We can link all Smart Contract in the Primary Key (Person/Owner/Hash number), as follow:
 
-Person Data
+# [Person Data](https://github.com/AlexGarcias/SmartContract/tree/master/AddPerson)
 
 1. Id_Person <---------- Primary Key
 2. First_Name
