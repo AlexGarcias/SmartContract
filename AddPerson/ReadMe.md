@@ -13,8 +13,8 @@ Note: each Id_ is a specific Smart Contract. We can link all Smart Contract in t
 
 # Logic
 
-Website to run the Ecosystem: https://alexgarcias.com.br/ag-openlaw
-PHP Reference: https://www.php.net/docs.php 
+1. Website to run the Ecosystem: https://alexgarcias.com.br/ag-openlaw;
+1. PHP Reference: https://www.php.net/docs.php;
 
     1. The user access the website;
     2. The website has 2 fields and 1 button;
