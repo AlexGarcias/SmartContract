@@ -4,12 +4,76 @@ Developer: Solidity 0.5.11, HTML, CSS, Web3.js;
 
 Note: each Id_ is a specific Smart Contract. We can link all Smart Contract in the Primary Key (Person/Owner), as follow:
 
-Person Data
+# Person Data
 
 1. Id_Person <---------- Primary Key
 2. First_Name
 3. Last_Name
 4. Photo
+
+# Logic
+
+Website to run the Ecosystem: https://alexgarcias.com.br/ag-openlaw
+PHP Reference: https://www.php.net/docs.php 
+
+    1. The user access the website;
+    2. The website has 2 fields and 1 button;
+    3. The fields is Login and Password. Button is Send;
+    4. The login is E-mail;
+    5. The Password has 7 characters with letters and numbers;
+
+# Button action
+
+    1. When the user click in the Send button the system consulting in Data Base about the E-mail;
+
+# Data base
+
+Reference: https://www.mysql.com/
+MySQL Documents: https://dev.mysql.com/doc/ 
+
+    1. The first register of the new user is stored in MySQL system;
+    2. Fields. Id_member, login, password, access level;
+    3. The owner has Admin access in the system;
+    4. Field Id_member is primary key;
+    5. Field login is UNIQUE;
+
+# Return button action
+
+    a) If there is no register with the E-mail, then the system send e-mail to new user to confirm the register in the Ecosystem;
+    b) If there is register with the E-mail, return message, ‘Try other login” go to register page again;
+
+# Decision 
+       
+The person receives the e-mail and confirm:
+
+    1. Yes;
+    2. No;
+
+# Condition
+
+    a) If the person confirm E-mail, then go to login e pass page;
+    b) If the person do not confirm E-mail, then no action;
+
+# Decision II
+
+The person type login and pass in PHP page?
+
+    a) Yes;
+    b) No;
+
+# Condition II
+
+    1. If the person type login and pass, then go to Dash Board (ag-openlaw/dash/);
+    2. If login error, then go to register page and:
+
+    a) Send new E-mail to confirm register;
+    b) Type login and pass again;
+    c) Log.txt to register the login and password page;
+
+# Dash board
+
+In the dash board we’ve the fields to record each Smart Contract Number (Hash) in the Person Smart Contract;
+In the dash board we’ve the buttons to: update pass, send pass again, delete member account;
 
 # Property data
 
