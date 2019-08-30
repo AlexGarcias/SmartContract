@@ -1,6 +1,6 @@
 # Smart Contract Person
 
-Developer: Solidity 0.5.11, HTML, CSS, Web3.js;
+Developer: Solidity 0.5.11, HTML, CSS, Web3.js, MySQL, PHP;
 
 Note: each Id_ is a specific Smart Contract. We can link all Smart Contract in the Primary Key (Person/Owner), as follow:
 
@@ -14,7 +14,7 @@ Note: each Id_ is a specific Smart Contract. We can link all Smart Contract in t
 # Logic
 
 1. Website to run the Ecosystem: https://alexgarcias.com.br/ag-openlaw;
-1. PHP Reference: https://www.php.net/docs.php;
+2. PHP Reference: https://www.php.net/docs.php;
 
     1. The user access the website;
     2. The website has 2 fields and 1 button;
@@ -28,8 +28,8 @@ Note: each Id_ is a specific Smart Contract. We can link all Smart Contract in t
 
 # Data base
 
-Reference: https://www.mysql.com/
-MySQL Documents: https://dev.mysql.com/doc/ 
+1. Reference: https://www.mysql.com/
+2. MySQL Documents: https://dev.mysql.com/doc/ 
 
     1. The first register of the new user is stored in MySQL system;
     2. Fields. Id_member, login, password, access level;
