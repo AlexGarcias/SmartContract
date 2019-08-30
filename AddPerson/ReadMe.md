@@ -72,11 +72,11 @@ The person type login and pass in PHP page?
 
 # Dash board
 
-1. In the dash board we’ve the fields to record each Smart Contract Number (Hash) in the Person Smart Contract;
-2. In the dash board we’ve the buttons to: 
+In the dash board we’ve the fields to record each Smart Contract Number (Hash) in the Person Smart Contract;
+In the dash board we’ve the buttons to: 
 
-    a) update pass;
-    b) send pass again;
+    a) update pass, 
+    b) send pass again, 
     c) delete member account;
 
 # Property data
