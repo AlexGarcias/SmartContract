@@ -6,6 +6,7 @@ Developer: Solidity 0.5.11, HTML, CSS, Web3.js; Alex Garcias, Dr. Attorney. Rese
 
 # Note:
 
+Techinical report: update in set,04,19. Under Construction. Experience only: https://github.com/AlexGarcias/SmartContract/blob/master/Yellow-Paper-Blockchain-Structure-Alex-Garcias-4-Set-19.pdf
 Faq about Smart Contract: https://github.com/AlexGarcias/SmartContract/issues 
 
 # Observation:
