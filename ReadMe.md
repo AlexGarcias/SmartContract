@@ -30,6 +30,8 @@ So when accessing the Smart Contract person's Hash primary key the information i
 The hash, children and parents, specific smart contract, are recorded in the smart contract and stored in the Blockchain. There is cross data information. The Id of offspring is registered in father, mother, grandfather, grandmother, brother, health, education and other human activities.
 In resume, read Blockchain Structure, is possible link Smart Contract to register all important human activities in the Blockchain, as follow:
 
+Note: Go to Technical Report <-------
+
 Note: each Id_ is a specific Smart Contract. We can link all Smart Contract in the Primary Key (Person/Owner/Hash number), as follow:
 
 # [Person Data](https://github.com/AlexGarcias/SmartContract/tree/master/AddPerson)
