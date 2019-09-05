@@ -18,8 +18,6 @@ Smart Contract: https://github.com/AlexGarcias/SmartContract/issues
 
 # Observation:
 
-Observation
-
 This Yellow Paper resume the technical information about link between Smart Contracts.
 Each human activities has your own Smart Contract. Some human activities has more importance that others. So, is important too register some human activities in Smart Contract so solve conflicts without intermediaries. 
 We suppose that the individual “Alpha” has one house, one car, one soon, one cat, one job, education, take care to health, travel and waste.
