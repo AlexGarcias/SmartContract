@@ -18,6 +18,8 @@ Smart Contract: https://github.com/AlexGarcias/SmartContract/issues
 
 # Observation:
 
+Observation
+
 This Yellow Paper resume the technical information about link between Smart Contracts.
 Each human activities has your own Smart Contract. Some human activities has more importance that others. So, is important too register some human activities in Smart Contract so solve conflicts without intermediaries. 
 We suppose that the individual “Alpha” has one house, one car, one soon, one cat, one job, education, take care to health, travel and waste.
@@ -28,6 +30,21 @@ If a person buys a car, the legal relationship between buyer and seller is recor
 So when accessing the Smart Contract person's Hash primary key the information is public, private, and sensitive data, with access level determined as public or private in the Solidity program, about the person connected to Smart Contract properties, cars. Thus, personal information and car information are recorded in Smart Contract and stored in Blockchain. The same to soon and parents.
 
 The hash, children and parents, specific smart contract, are recorded in the smart contract and stored in the Blockchain. There is cross data information. The Id of offspring is registered in father, mother, grandfather, grandmother, brother, health, education and other human activities.
+
+Goal Ecosystem
+
+The first goal of the Ecosystem is create a Smart Contract to stoke public, private and sensible data about person.
+The first Smart Contract is the Primary Key of the system. In the first Smart Contract we record data about person and about yours Smart Contracts.
+
+The first layer of the Ecosystem has function as wallet to stock personal and companies Smart Contracts number.
+For example: The person subscribe in the Alex Garcias Legal Smart Contract Ecosystem. The first Smart Contract is linked to personal data about the person, as will see below.
+
+In the dash.php page we have others fields to member record in Smart Contract and Ethereum Blockchain your Smart Contracts number (Hash Smart Contracts of the all human activities).
+
+If the member of the Alex Garcias Legal Smart Contracts to buy, sell, swap a car, or motorcycle, or boat, or dog, cat, bovine, or start a new school or anything that configure human relationship with interest for Legal system, then the member can stock all Smart Contracts hash number in your wallet in Alex Garcias Ecosystem.
+
+The first goal is create many Smart Contracts to member use. In the moment Alex Garcias – Smart Contracts create a Smart Contract on demand.
+
 In resume, read Blockchain Structure, is possible link Smart Contract to register all important human activities in the Blockchain, as follow:
 
 Note: Go to Technical Report <-------
