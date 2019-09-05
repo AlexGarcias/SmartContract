@@ -29,7 +29,7 @@ So when accessing the Smart Contract person's Hash primary key the information i
 
 The hash, children and parents, specific smart contract, are recorded in the smart contract and stored in the Blockchain. There is cross data information. The Id of offspring is registered in father, mother, grandfather, grandmother, brother, health, education and other human activities.
 
-Goal Ecosystem
+# Goal Ecosystem
 
 The first goal of the Ecosystem is create a Smart Contract to stoke public, private and sensible data about person.
 The first Smart Contract is the Primary Key of the system. In the first Smart Contract we record data about person and about yours Smart Contracts.
